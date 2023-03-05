@@ -5,7 +5,7 @@ const Home = () => {
   const list = [
     {
         avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&w=1000&q=80v=4',
-        name: 'Siddharth Kothari',
+        name: 'Jenasheesh Debu 💓',
         email: 'example@gmail.com',
         job: 'Chief Executive Officer'
     },
